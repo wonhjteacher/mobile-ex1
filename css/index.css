@@ -105,3 +105,39 @@ header .menu-btn{
 .menu-area .menu-list>li .menu-thum-txt .price{
   font-size: 3.055vw;
 }
+.menu-area  .menu-allview-btn{
+  margin:auto;
+  color:#fff;
+  border:1px solid #464646;
+  background-color:#1da4d9;
+  width:45.55vw ;height:13.35vw ;
+  margin-top:11.66vw;line-height:13.35vw;
+  font-size: 3.6vw;text-align: center;
+}
+/* 베스트메뉴 */
+.best-menu-area{
+  background: #ebebeb;
+  padding:9.444vw 4.166vw 7.777vw;
+}
+.best-menu-area img{width: 100%;}
+.best-menu-area .best-title{
+  color: #36373b;
+  font-size:5.555vw;
+  font-weight: 500;
+  margin-left: 6.666vw;
+  padding-top: 5.833vw;
+  position: relative;
+}
+.best-menu-area .best-title::before{
+  content: '';display: block;
+  position: absolute;left:0;top:0px;
+  height: 1.666vw;
+  width: 10vw;
+  background-color: #36373b;
+}
+.best-menu-area .best_title_sub{
+  font-size:4.166vw;
+  color:#5e6068;
+  margin-top:3.888vw;
+  margin-left: 6.666vw;
+}
