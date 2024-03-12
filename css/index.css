@@ -2,11 +2,10 @@
 html,body{
   font-size: 16px;
   font-family: 'Noto Sans kr',sans-serif;
-  width: 100%;
 }
 *{-webkit-text-size-adjust: none;}
 a{display:block}
-body{overflow-x: hidden;}
+body{overflow-x: hidden;width: 100%;}
 /* header */
 header{
   height: 70px;
