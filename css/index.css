@@ -301,7 +301,7 @@ footer .footer-menu-area{
   padding-left:  4.44vw;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  gap:4.444vw;
 }
 footer .footer-menu-area dl{
   margin-bottom: 9.444vw;
